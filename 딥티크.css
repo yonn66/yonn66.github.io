@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400&display=swap');
+body, p { margin : 0; }
+#back0 {
+    position: fixed;
+}
+#box1{
+    display: inline-block;
+    position: fixed;
+    right: 44px;
+    top: 20px;
+
+}
+#back{
+  
+    display: block;
+    position: fixed;
+    position: fixed;
+    top: 50%;
+    left: 680px;
+    transform: translate(0%, -50%);
+    
+
+}
+
+#title{ 
+    display: inline-block;
+    position: fixed;
+    left: 80px;
+    top: 100px;
+    font-size: 26px;
+    font-family:  'Noto Sans KR', sans-serif;
+    font-weight: 400;
+
+}
+
+#line{ 
+    display: inline-block;
+    position: fixed;
+    left: 80px;
+    top: 134px;
+   
+
+}
+#explain1{
+    display: inline-block;
+    position: fixed;
+    left: 80px;
+    top: 200px;
+    font-family:  'Noto Sans KR', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    
+
+}
+
+#explain2{
+    display: inline-block;
+    position: fixed;
+    left: 180px;
+    top: 200px;
+    font-family:  'Noto Sans KR', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+}
+
+    
+#overview1{    display: inline-block;
+    position: fixed;
+    left: 80px;
+    top: 280px;
+    font-family:  'Noto Sans KR', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+}
+
+
+#overview2{    display: inline-block;
+    position: fixed;
+    left: 80px;
+    top: 310px;
+    font-family:  'Noto Sans KR', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+}

@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400&display=swap');
+
+body, p { margin : 0; }
+
+
+#back {
+    position: fixed;
+}
+
+#box1 {
+    display: inline-block;
+    position: fixed;
+    width: 658px;
+    height: 48px;
+    left: 44px;
+    top: 0px;
+    font-size: 14px;
+    font-family:  'Noto Sans KR', sans-serif;
+    color : rgb(22,22,22);
+    font-weight: 300;
+}
+
+#insta {
+    display: inline-block;
+    position: fixed;
+    width: 120px;
+    height: 48px;
+    right: 94px;
+    top: 0px;
+    font-size: 14px;
+    font-family:  'Noto Sans KR', sans-serif;
+    font-weight: 300;
+    color : rgb(22,22,22);
+}
+
+#box2{
+    display: inline-block;
+    position: fixed;
+  
+    right: 32px;
+    top: 0px;
+    font-size: 14px;
+    text-align: right;
+    font-family:  'Noto Sans KR', sans-serif;
+    color : rgb(22,22,22);
+    font-weight: 300;
+
+}
+
+#Largebox{
+    display: block;
+    position: fixed;
+    width: 1832px;
+    height: 984px;
+    left: 44px;
+    top: 48px;
+    font-size: 16px;
+    font-family:  'Noto Sans KR', sans-serif;
+    color : rgb(22,22,22);
+    
+  
+}
+#profil {
+    display: inline-block;
+    position: fixed;
+    width: 268px;
+    height: 48px;
+    left: 44px;
+    top: 152px;
+    font-size: 18px;
+    font-family:  'Noto Sans KR', sans-serif;
+    color : rgb(22,22,22);
+   
+}
+#imag {
+    display: inline-block;
+    position: fixed;
+    width: 248px;
+    height: 286px;
+    left: 44px;
+    top: 230px;
+    overflow: hidden;
+}
+
+#name1 {
+    display: block;
+    position: fixed;
+    width: 268px;
+    height: 308px;
+    left: 44px;
+    top: 580px;
+    font-size: 18px;
+    font-family:  'Noto Sans KR', sans-serif;
+    color : rgb(22,22,22);
+  
+}
+#name2 {
+    display: block;
+    position: fixed;
+    width: 268px;
+    height: 308px;
+    left: 44px;
+    top: 636px;
+    font-size: 16px;
+    font-family:  'Noto Sans KR', sans-serif;
+    color : rgb(22,22,22);
+ 
+}
+
+#softwear {
+    display: block;
+    position: fixed;
+    width: 268px;
+    height: 308px;
+    left: 340px;
+    top: 248px;
+    font-size: 16px;
+    font-family:  'Noto Sans KR', sans-serif;
+    color : rgb(22,22,22);
+  
+}
+
+#focus {
+    display: block;
+    position: fixed;
+    width: 268px;
+    height: 308px;
+    left: 340px;
+    top: 580px;
+    font-size: 16px;
+    font-family:  'Noto Sans KR', sans-serif;
+    color : rgb(22,22,22);
+    
+  
+}
+
+
+#workbox {
+    display: block;
+    position: absolute;
+    width: 1274px;
+    height: 5550px;
+    left: 602px;
+    top: 48px;
+    transform: translate(0%, 0%);
+    font-size: 16px;
+    font-family:  'Noto Sans KR', sans-serif;
+    font-weight: 400;
+    background-color: rgb(240,239,237);
+    overflow: visible;
+    color : rgb(22,22,22);
+
+}
+
+
+#copyright {
+    font-size: 14px;
+    font-family:  'Noto Sans KR', sans-serif;
+    text-align: right;
+    color : rgb(200,200,200);
+    font-weight: 300;
+}
+
+#top {
+    font-size: 14px;
+    font-family:  'Noto Sans KR', sans-serif;
+    text-align: right;
+    color : rgb(22,22,22)
+    
+}
+
+#down {
+    font-size: 14px;
+    font-family:  'Noto Sans KR', sans-serif;
+    text-align: right;
+    color : rgb(22,22,22)
+  
+}
+
+
